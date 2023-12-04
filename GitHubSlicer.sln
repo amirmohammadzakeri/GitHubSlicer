@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubSlicer", "GitHubSlicer\GitHubSlicer.csproj", "{95319146-E9A2-4217-8114-1B7D68F6EA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubSlicer.Test", "GitHubSlicer.Test\GitHubSlicer.Test.csproj", "{928272EF-1FDA-419D-8C78-0342C940B27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95319146-E9A2-4217-8114-1B7D68F6EA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95319146-E9A2-4217-8114-1B7D68F6EA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95319146-E9A2-4217-8114-1B7D68F6EA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95319146-E9A2-4217-8114-1B7D68F6EA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{928272EF-1FDA-419D-8C78-0342C940B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928272EF-1FDA-419D-8C78-0342C940B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928272EF-1FDA-419D-8C78-0342C940B27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928272EF-1FDA-419D-8C78-0342C940B27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
